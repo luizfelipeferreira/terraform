@@ -51,3 +51,4 @@ output "subnet-1-dev-id" {
 output "environment" {
   value = var.environment
 }
+
